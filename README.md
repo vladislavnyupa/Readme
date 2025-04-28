@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Vlad Nyupa github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vlad-coders&hide_border=true&theme=redical)](https://github.com/vladislavnyupa)
+[![Vlad Nyupa github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vladislavnyupa&hide_border=true&theme=redical)](https://github.com/vladislavnyupa)
 
 <hr>
 
